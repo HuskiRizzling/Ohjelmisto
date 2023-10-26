@@ -8,4 +8,5 @@ def heita_noppaa():
         if sl == 6:
             break
 
+
 heita_noppaa()
